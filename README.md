@@ -9,6 +9,7 @@ IoT_classifier: 3 classifiers (Bagging, Random Forest and KNN) from inside and p
 IoT_classifier_with_Sampling: Same as before but we tryied to see if having sampling would change the results
 deep_learning: Use of multi-class neuronal networks to classify the devices
 deep_learning_iot: Use of binary neuronal networks to classify between IoT and Non-IoT
+Dataset2: The dataset we used to do this project
 
 
 Group A2:
