@@ -1,7 +1,7 @@
 # TMA-Project-final
 Project for the subject TMA
 
-First, we started with one dataset (called Data) that only has IoT devices. Then, we decided to switch to another, provided by Ben-Gurion - University of The Negev (check the end of the readme for references).
+First, we started with one dataset that only has IoT devices. Then, we decided to switch to another, provided by Ben-Gurion - University of The Negev (check the end of the readme for references).
 
 
 ## Requirements for the first dataset
