@@ -4,7 +4,7 @@ Project for the subject TMA
 First, we started with one dataset (called Data) that only has IoT devices. Then, we decided to switch to another, provided by Ben-Gurion - University of The Negev (check the end of the readme for references).
 
 
-Codes for the first dataset
+## Codes for the first dataset
 
 oldDataset: The dataset we used to use
 IoT predictor: The code with Bagging Classifier and Random Forest and manually extracted the columns that we couldn't have outside the network
